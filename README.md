@@ -6,8 +6,7 @@ Play
 **App Publisher**
 Thomada Platform
 
-**Category**
-Desktop app · local video & audio player (Windows, macOS, Linux)
+`Desktop` • `Windows/macOS/Linux` · `Released v1.0.0`
 
 **Description**
 Play is a desktop media player that helps you watch and listen to the video and audio files already sitting on your PC - without a clunky, dated interface standing in the way.
@@ -25,9 +24,6 @@ I built this for myself first, to stop fighting with that old-school player ever
 [Latest release](https://github.com/thomada-platform/play-releases/releases/latest)
 - **Windows:** Download `play-setup-v{version}-win-x64.exe` (or `-ia32.exe` for 32-bit systems). Run the installer and follow the setup wizard.
 - **macOS:** Download `play-setup-v{version}-mac-x64.dmg` (or `-arm64.dmg` for Apple Silicon). Since Play isn't notarized by Apple yet, macOS will flag it as unrecognized - right-click the app and choose Open the first time to get past Gatekeeper.
-- **Linux:** Download `play-setup-v{version}-linux-x64.AppImage` or the `.deb` package. For the AppImage, run `chmod +x` on the file first to make it executable.
+- **Linux:** Download `play-setup-v{version}-linux-x64.AppImage` or the `.deb` package. For the AppImage, run `chmod +x` on it first to make it executable.
 
 Play checks this page for new releases and will let you know in-app when an update is available.
-
-**Status**
-Released - v1.0.1
